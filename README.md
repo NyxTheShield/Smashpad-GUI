@@ -16,7 +16,7 @@ Simply run the script, select the file you want to compress/decompress and selec
 
 `[Filename.Extension]-[Offset]-[Compressed Size]`
 
-If your filename follows this convention, then the script will automatically detect the desired size and will compress the file automatically. In any other case, a pop window will appear asking to enter the desired size.
+If your filename follows this convention, then the script will automatically detect the desired size and will compress the file automatically. In any other case, a pop up window will appear asking to enter the desired size.
 
 ## Screenshots
 
