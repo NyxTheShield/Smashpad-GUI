@@ -1,6 +1,6 @@
 # Smashpad-GUI
 
-![alt text](https://github.com/NyxTheShield/Smashpad-GUI/blob/master/Markdown%20Screenshots/Main.png "Main Screenshot")
+![alt text](https://github.com/NyxTheShield/Smashpad-GUI/blob/master/Markdown%20Screenshots/Smashpad.png "Main Screenshot")
 
 ## Introduction
 GUI Version of Birdwards's Smashpad script! A file padder for SSB Ultimate.
@@ -17,3 +17,9 @@ Simply run the script, select the file you want to compress/decompress and selec
 `[Filename.Extension]-[Offset]-[Compressed Size]`
 
 If your filename follows this convention, then the script will automatically detect the desired size and will compress the file automatically. In any other case, a pop window will appear asking to enter the desired size.
+
+## Screenshots
+
+![alt text](https://github.com/NyxTheShield/Smashpad-GUI/blob/master/Markdown%20Screenshots/Main.png "Main Screenshot")
+![alt text](https://github.com/NyxTheShield/Smashpad-GUI/blob/master/Markdown%20Screenshots/Size.png "Size")
+![alt text](https://github.com/NyxTheShield/Smashpad-GUI/blob/master/Markdown%20Screenshots/Padded.png "Padded")
