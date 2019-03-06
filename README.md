@@ -1,5 +1,7 @@
 # Smashpad-GUI
 
+![alt text](https://github.com/NyxTheShield/Smashpad-GUI/blob/master/Markdown%20Screenshots/Main.png "Main Screenshot")
+
 ## Introduction
 GUI Version of Birdwards's Smashpad script! A file padder for SSB Ultimate.
 Requires the Zstandard Library, that can be installed by running the cmd:
