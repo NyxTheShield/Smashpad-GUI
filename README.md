@@ -10,7 +10,7 @@ Requires the Zstandard Library, that can be installed by running the cmd:
 
 Simply run the script, select the file you want to compress/decompress and select the respective option!
 
-**This scripts supports the new naming convention for mod installs:**
+**This script supports the new naming convention for mods:**
 
 `[Filename.Extension]-[Offset]-[Compressed Size]`
 
