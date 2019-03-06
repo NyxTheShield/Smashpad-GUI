@@ -1,12 +1,12 @@
 # Smashpad-GUI
 
-##Introduction
+## Introduction
 GUI Version of Birdwards's Smashpad script! A file padder for SSB Ultimate.
 Requires the Zstandard Library, that can be installed by running the cmd:
 
 `pip install zstandard`
 
-##Usage
+## Usage
 
 Simply run the script, select the file you want to compress/decompress and select the respective option!
 
