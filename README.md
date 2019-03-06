@@ -10,7 +10,7 @@ Requires the Zstandard Library, that can be installed by running the cmd:
 
 ## Usage
 
-Simply run the script, select the file you want to compress/decompress and select the respective option!
+Simply run the `Smashpad-GUI.pyw` script, select the file you want to compress/decompress and select the respective option!
 
 **This script supports the new naming convention for mods:**
 
